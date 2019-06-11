@@ -185,5 +185,3 @@ begin to learn python
         >>> x[0][1]
         'b'
     ```
-
-2 
