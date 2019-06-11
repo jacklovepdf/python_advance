@@ -185,3 +185,21 @@ begin to learn python
         >>> x[0][1]
         'b'
     ```
+
+(7) First Steps Towards Programming
+
+    ```python
+        >>> a, b = 0, 1
+        >>> while a < 10:
+        ...     print(a)
+        ...     a, b = b, a+b
+        ...
+        0
+        1
+        1
+        2
+        3
+        5
+        8
+        >>>
+    ```
